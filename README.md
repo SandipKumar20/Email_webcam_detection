@@ -1,0 +1,1 @@
+# A python app which detects a new object using a camera and sends an email of the object.
